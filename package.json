@@ -12,8 +12,7 @@
     "package": "./node_modules/.bin/module-builder package"
   },
   "devDependencies": {
-    "@types/node": "^10.11.3",
     "module-builder": "../../build/module-builder"
   },
-  "dependencies": {}
+  "dependancies":{}
 }
