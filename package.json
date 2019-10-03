@@ -1,7 +1,7 @@
 {
   "name": "LindseyDialogue",
-  "version": "0.0.1",
-  "description": "Module for Lindsey @ the collection",
+  "version": "1.0.0",
+  "description": "",
   "private": true,
   "main": "dist/backend/index.js",
   "author": "Botpress, Inc.",
@@ -12,7 +12,11 @@
     "package": "./node_modules/.bin/module-builder package"
   },
   "devDependencies": {
+    "@types/node": "^10.11.3",
+    "@types/react": "^16.8.17",
+    "@types/react-dom": "^16.8.4",
+    "@blueprintjs/core": "^3.15.1",
     "module-builder": "../../build/module-builder"
   },
-  "dependancies":{}
+  "dependencies": {}
 }
