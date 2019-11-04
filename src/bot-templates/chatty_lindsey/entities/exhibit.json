@@ -1,0 +1,26 @@
+{
+  "sensitive": false,
+  "fuzzy": false,
+  "name": "Exhibit",
+  "type": "list",
+  "occurences": [
+    {
+      "name": "Burial mounds",
+      "synonyms": [
+        "tombs",
+        "burial mounds",
+        "crypts",
+        "graves"
+      ]
+    },
+    {
+      "name": "currency",
+      "synonyms": [
+        "coins",
+        "pounds",
+        "dollars"
+      ]
+    }
+  ],
+  "pattern": ""
+}

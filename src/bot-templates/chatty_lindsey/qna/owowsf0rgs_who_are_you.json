@@ -1,0 +1,21 @@
+{
+  "id": "owowsf0rgs_who_are_you",
+  "data": {
+    "answers": {
+      "en": [
+        "The dark side of Lindsey"
+      ]
+    },
+    "questions": {
+      "en": [
+        "Who are you?",
+        "What are you?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "category": "global",
+    "enabled": true
+  }
+}

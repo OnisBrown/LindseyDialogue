@@ -1,0 +1,75 @@
+[
+  {
+    "id": "builtin_text-kMTmdz",
+    "formData": {
+      "text$en": "Where would you like to go?",
+      "typing$en": true,
+      "variations$en": [
+        "where shall we go?"
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-09-03T22:15:31.241Z",
+    "modifiedOn": "2019-09-03T22:19:28.433Z"
+  },
+  {
+    "id": "builtin_text-omylJa",
+    "formData": {
+      "text$en": "Sorry I'm not aware of that exhibit",
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-09-03T22:20:06.135Z",
+    "modifiedOn": "2019-09-03T22:20:06.135Z"
+  },
+  {
+    "id": "builtin_text-0zuAkN",
+    "formData": {
+      "text$en": "Going to the {{session.slots.Exhibits.value}}",
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-09-03T22:30:34.106Z",
+    "modifiedOn": "2019-09-04T07:29:03.829Z"
+  },
+  {
+    "id": "builtin_text-pptQI3",
+    "formData": {
+      "text$en": "Already here",
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-09-03T22:47:40.522Z",
+    "modifiedOn": "2019-09-03T22:47:40.522Z"
+  },
+  {
+    "id": "builtin_text-MyttFv",
+    "formData": {
+      "text$en": "I don't recognize that, let's start from the top",
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-09-03T22:48:48.958Z",
+    "modifiedOn": "2019-09-03T22:48:48.958Z"
+  },
+  {
+    "id": "builtin_text-hgBaT2",
+    "formData": {
+      "text$en": "Testing Git call {{session.response.0.description}}",
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-09-04T12:07:27.846Z",
+    "modifiedOn": "2019-09-04T12:07:35.227Z"
+  },
+  {
+    "id": "builtin_text-tB6y1v",
+    "formData": {
+      "text$en": "Let's talk about {{session.slots.Exhibits.value}}",
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-10-07T10:45:33.339Z",
+    "modifiedOn": "2019-10-07T10:45:33.339Z"
+  }
+]

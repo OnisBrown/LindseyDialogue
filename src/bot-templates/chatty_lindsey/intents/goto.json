@@ -1,0 +1,33 @@
+{
+  "name": "goto",
+  "utterances": {
+    "en": [
+      "show the to the [here](Exhibits)",
+      "lead them to [here](Exhibits) ",
+      "lead me to [here](Exhibits)",
+      "lead us to [here](Exhibits)",
+      "show us the [here](Exhibits)",
+      "show me [here](Exhibits)",
+      "go to the [here](Exhibits)",
+      "take us to the [here](Exhibits)",
+      "let's go to the [here](Exhibits)",
+      "let's go to [here](Exhibits)",
+      "take us to [here](Exhibits)",
+      "take me to [here](Exhibits)",
+      "Go to [here](Exhibits) "
+    ]
+  },
+  "slots": [
+    {
+      "id": "g5uTsdtbmXy8bb7PYy1r2",
+      "name": "Exhibits",
+      "entities": [
+        "Exhibit"
+      ],
+      "color": 1
+    }
+  ],
+  "contexts": [
+    "global"
+  ]
+}
