@@ -8,7 +8,7 @@ export default async (bp: typeof sdk) => {
    */
   const router = bp.http.createRouterForBot('LindseyChat')
 
-  // Link to access this route: http://localhost:3000/api/v1/bots/BOT_NAME/mod/complete-module/my-first-route
+  // Link to access this route: http://localhost:3000/api/v1/bots/chatty_Lindsey/mod//my-first-route
   router.get('/my-first-route', async (req, res) => {
     // Since the bot ID is required to access your module,
     const botId = req.params.botId
