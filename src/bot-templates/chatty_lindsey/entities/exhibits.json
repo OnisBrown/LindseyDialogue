@@ -1,0 +1,99 @@
+{
+  "id": "exhibits",
+  "name": "Exhibits",
+  "type": "list",
+  "occurrences": [
+    {
+      "name": "Gaius Valerius tombstone",
+      "synonyms": []
+    },
+    {
+      "name": "Claudia Crysis tombstone",
+      "synonyms": []
+    },
+    {
+      "name": "Bronze Age barrow finds",
+      "synonyms": []
+    },
+    {
+      "name": "Reconstructed Early Medieval face",
+      "synonyms": []
+    },
+    {
+      "name": "Anglo-Scandinavian grave cover",
+      "synonyms": []
+    },
+    {
+      "name": "Medieval stone effigy",
+      "synonyms": []
+    },
+    {
+      "name": "Welton le Wold handaxes",
+      "synonyms": []
+    },
+    {
+      "name": "Neolithic polished axes",
+      "synonyms": []
+    },
+    {
+      "name": "Iron Age logboat",
+      "synonyms": [
+        "ship",
+        "boat",
+        "logship"
+      ]
+    },
+    {
+      "name": "Tattershall Thorpe grave assemblage",
+      "synonyms": []
+    },
+    {
+      "name": "Medieval cooking",
+      "synonyms": []
+    },
+    {
+      "name": "Fiskerton causeway",
+      "synonyms": []
+    },
+    {
+      "name": "Statuettes of Minerva",
+      "synonyms": []
+    },
+    {
+      "name": "Papal seal matrix",
+      "synonyms": []
+    },
+    {
+      "name": "Jewish face roof tile",
+      "synonyms": []
+    },
+    {
+      "name": "Witham Valley monasteries",
+      "synonyms": []
+    },
+    {
+      "name": "Bronze Age pot decoration",
+      "synonyms": []
+    },
+    {
+      "name": "Iron Age coins drill",
+      "synonyms": []
+    },
+    {
+      "name": "Early Medieval pendant",
+      "synonyms": []
+    },
+    {
+      "name": "Hanging Bowls",
+      "synonyms": []
+    },
+    {
+      "name": "Medieval alabaster",
+      "synonyms": []
+    }
+  ],
+  "sensitive": false,
+  "fuzzy": 0.8,
+  "examples": [],
+  "pattern": ""
+}

@@ -6,12 +6,18 @@
       "they want to here about [this](exhibit)",
       "talk to them about [this](exhibit)",
       "talk about [this](exhibit)",
-      "we want to here about [this](exhibit)",
+      "we want to hear about [this](exhibit)",
       "What's [this](exhibit)",
       "I want to here about [this](exhibit)",
       "tell us about [this](exhibit)",
       "tell me about [this](exhibit)",
-      "describe the [this](exhibit)"
+      "describe the [this](exhibit)",
+      "tell them about the [this](exhibit)",
+      "talk to them about the [this](exhibit)",
+      "talk about the [this](exhibit)",
+      "we want to hear about the [this](exhibit)",
+      "they want to hear about the [this](exhibit)",
+      "tell me about the [this](exhibit)"
     ]
   },
   "slots": [

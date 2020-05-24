@@ -2,8 +2,8 @@
   "name": "goto",
   "utterances": {
     "en": [
-      "show the to the [here](Exhibits)",
-      "lead them to [here](Exhibits) ",
+      "show the to the here",
+      "lead them to [here](Exhibits)",
       "lead me to [here](Exhibits)",
       "lead us to [here](Exhibits)",
       "show us the [here](Exhibits)",
@@ -14,7 +14,7 @@
       "let's go to [here](Exhibits)",
       "take us to [here](Exhibits)",
       "take me to [here](Exhibits)",
-      "Go to [here](Exhibits) "
+      "Go to [here](Exhibits)"
     ]
   },
   "slots": [

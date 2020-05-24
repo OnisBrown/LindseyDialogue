@@ -1,0 +1,49 @@
+{
+  "version": "0.0.1",
+  "catchAll": {},
+  "startNode": "entry",
+  "triggers": [],
+  "description": "",
+  "nodes": [
+    {
+      "id": "f0c26d71d3",
+      "name": "entry",
+      "onEnter": [],
+      "onReceive": null,
+      "next": [],
+      "type": "standard"
+    },
+    {
+      "id": "31015a999d",
+      "name": "node-a38c-copy",
+      "next": [
+        {
+          "condition": "true",
+          "node": ""
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-tB6y1v",
+        "basic-skills/slot_reset {\"slotName\":\"{{session.slots.exhibit.value}}\"}"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "e7c39bfe44",
+      "name": "node-cfb0-copy",
+      "next": [
+        {
+          "condition": "true",
+          "node": ""
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-0zuAkN",
+        "basic-skills/slot_reset {\"slotName\":\"{{session.slots.exhibit.value}}\"}"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    }
+  ]
+}

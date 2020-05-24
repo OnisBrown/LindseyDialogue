@@ -26,12 +26,7 @@
     {
       "id": "084a4b1ee0",
       "name": "node-cfb0",
-      "next": [
-        {
-          "condition": "true",
-          "node": "node-7b4d"
-        }
-      ],
+      "next": [],
       "onEnter": [
         "say #!builtin_text-0zuAkN",
         "basic-skills/slot_reset {\"slotName\":\"{{session.slots.exhibit.value}}\"}"
@@ -42,12 +37,7 @@
     {
       "id": "260680daa5",
       "name": "node-a38c",
-      "next": [
-        {
-          "condition": "true",
-          "node": "node-7b4d"
-        }
-      ],
+      "next": [],
       "onEnter": [
         "say #!builtin_text-tB6y1v",
         "basic-skills/slot_reset {\"slotName\":\"{{session.slots.exhibit.value}}\"}"

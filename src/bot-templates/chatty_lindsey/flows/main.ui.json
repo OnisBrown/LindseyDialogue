@@ -3,8 +3,8 @@
     {
       "id": "bc4421afa2",
       "position": {
-        "x": 1085,
-        "y": 60
+        "x": 1060,
+        "y": 115
       }
     },
     {
@@ -24,43 +24,13 @@
   ],
   "links": [
     {
-      "source": "084a4b1ee0",
-      "sourcePort": "out0",
-      "target": "bc4421afa2",
-      "points": [
-        {
-          "x": 1716,
-          "y": 124
-        },
-        {
-          "x": 1185,
-          "y": 53
-        }
-      ]
-    },
-    {
-      "source": "260680daa5",
-      "sourcePort": "out0",
-      "target": "bc4421afa2",
-      "points": [
-        {
-          "x": 1716,
-          "y": 279
-        },
-        {
-          "x": 1185,
-          "y": 53
-        }
-      ]
-    },
-    {
       "source": "bc4421afa2",
       "sourcePort": "out0",
       "target": "084a4b1ee0",
       "points": [
         {
-          "x": 1291,
-          "y": 93
+          "x": 1266,
+          "y": 150
         },
         {
           "x": 1610,
@@ -74,8 +44,8 @@
       "target": "260680daa5",
       "points": [
         {
-          "x": 1291,
-          "y": 119
+          "x": 1266,
+          "y": 173
         },
         {
           "x": 1610,

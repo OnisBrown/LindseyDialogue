@@ -9,7 +9,7 @@
   "$schema": "../../bot.config.schema.json",
   "description": "Lindsey chat bot",
   "active": true,
-  "version": "12.1.2",
+  "version": "12.9.1",
   "author": "Botpress, Inc.",
   "license": "AGPL-3.0",
   "imports": {
@@ -37,12 +37,12 @@
     "en"
   ],
   "id": "chatty_lindsey",
-  "name": "Lindsey",
+  "name": "chatty_lindsey",
   "pipeline_status": {
     "current_stage": {
       "id": "prod",
-      "promoted_on": "2019-09-03T21:07:59.089Z",
-      "promoted_by": "Onis.Brown@hotmail.co.uk"
+      "promoted_on": "2020-05-11T12:22:56.643Z",
+      "promoted_by": "onis.brown@hotmail.co.uk"
     }
   }
 }

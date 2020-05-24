@@ -1,13 +1,13 @@
 {
   "name": "__qna__owowsf0rgs_who_are_you",
-  "contexts": [
-    "global"
-  ],
   "utterances": {
     "en": [
       "Who are you?",
       "What are you?"
     ]
   },
-  "slots": []
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
 }
